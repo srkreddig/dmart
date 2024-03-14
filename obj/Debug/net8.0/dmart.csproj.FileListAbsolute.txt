@@ -28,3 +28,4 @@ C:\Users\Admin\Desktop\Dmart\dmart\obj\Debug\net8.0\refint\dmart.dll
 C:\Users\Admin\Desktop\Dmart\dmart\obj\Debug\net8.0\dmart.pdb
 C:\Users\Admin\Desktop\Dmart\dmart\obj\Debug\net8.0\dmart.genruntimeconfig.cache
 C:\Users\Admin\Desktop\Dmart\dmart\obj\Debug\net8.0\ref\dmart.dll
+C:\Users\Admin\Desktop\Dmart\dmart\obj\Debug\net8.0\dmart.sourcelink.json
